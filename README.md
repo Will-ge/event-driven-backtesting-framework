@@ -5,7 +5,7 @@ This is a general event-driven backtesting framework.
 3. Generate orders for the portfolio based on the signals. (Portfolio Class)
 4. Execute orders. (ExecuteOrder Class)
 5. Track successful orders and generate performance metrics for the portfolio. (Performance Class)
-
+![haha](./event-driven-backtesting-framework/backtesting framework.png)
 
 The following image shows the logic of the framework.
 <p align="centre">
