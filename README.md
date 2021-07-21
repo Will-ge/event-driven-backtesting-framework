@@ -8,5 +8,5 @@ This is a general event-driven backtesting framework.
 
 
 The following image shows the logic of the framework.
-![image](./backtesting framework.png)
+![image](backtesting framework.png)
 
