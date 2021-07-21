@@ -8,5 +8,6 @@ This is a general event-driven backtesting framework.
 
 
 The following image shows the logic of the framework.
-<img src="./backtesting framework.png"> </img>
-
+<p align="centre">
+  <img src="./backtesting framework.png"> </img>
+</p>
