@@ -1,7 +1,11 @@
 # event-driven back-testing framework
-This is a basic event-driven framework, investing in SPY from 2018-6-25 to 2021-6-24 as a test (daily data).
+This is a general event-driven backtesting framework.
+1. Receive data from data vendor and convert raw data into desired form. (DataHandler Class)
+2. Generate signals based on strategies. (Strategy Class)
+3. Generate orders for the portfolio based on the signals. (Portfolio Class)
+4. Execute orders. (ExecuteOrder Class)
+5. Track successful orders and generate performance metrics for the portfolio. (Portfolio Class)
 
-Base.py is the main file running the event-driven loop.
 
 The following image shows the logic of the framework.
 
